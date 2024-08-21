@@ -9,9 +9,9 @@ body {
 #calculator {
   border: 2px solid rgb(61, 164, 14);
   border-radius: 8px;
-  width: 270px; /* Slightly increased width for better spacing */
-  background-color: #171515; /* Light background color */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for a 3D effect */
+  width: 270px;  
+  background-color: #171515; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
   padding: 20px;
 }
 
@@ -20,12 +20,12 @@ body {
   margin-right: 5px;
   width: 90%;
   font-size: 25px;
-  text-align: right; /* Right-align text for a more calculator-like feel */
-  padding: 10px; /* Padding for better readability */
-  border: 1px solid #ccc; /* Border for the display */
-  border-radius: 4px; /* Rounded corners */
-  background-color: #fff; /* White background for the display */
-  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1); /* Inner shadow for depth */
+  text-align: right; 
+  padding: 10px; 
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  background-color: #fff; 
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1); 
 }
 
 .button-container {
@@ -35,15 +35,15 @@ body {
 }
 
 .button {
-  width: 60px; /* Slightly increased size for better usability */
+  width: 60px; 
   height: 60px;
   margin: 5px;
-  border: none; /* Removed default border */
-  border-radius: 4px; /* Rounded corners */
-  font-size: 18px; /* Increased font size for readability */
-  background-color: #e0e0e0; /* Default button color */
-  color: #333; /* Text color */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Button shadow */
-  transition: background-color 0.3s, box-shadow 0.3s; /* Smooth transition for hover effect */
+  border: none; 
+  border-radius: 4px; 
+  font-size: 18px; 
+  background-color: #e0e0e0; 
+  color: #333;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1)
+  transition: background-color 0.3s, box-shadow 0.3s; 
 }
 
